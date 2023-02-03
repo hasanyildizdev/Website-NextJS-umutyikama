@@ -1,3 +1,4 @@
+# Next JS project
 This is website design for umutyikama.com
 
 Next.js used as a framework.
